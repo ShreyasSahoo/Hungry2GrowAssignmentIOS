@@ -21,8 +21,7 @@
   ![Post Detail View Screenshot](https://github.com/ShreyasSahoo/Hungry2GrowAssignmentIOS/assets/104025964/b82265de-cac3-42b5-aec1-9c075343be8b)
 
 - **Search Functionality:** 
-  - [Placeholder for description or details about the search functionality]
-
+  
   ![Search Functionality Screenshot](https://github.com/ShreyasSahoo/Hungry2GrowAssignmentIOS/assets/104025964/90ae90bf-6c42-4c12-87d3-22c161704b3f)
 
 ---
